@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1716640888 source:e:\programming\monsters\main.cpp
+	"Random.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<string_view>
+
+1716640888 e:\programming\monsters\random.h
+	<chrono>
+	<random>
+
